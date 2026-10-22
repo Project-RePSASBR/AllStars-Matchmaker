@@ -22,3 +22,5 @@ The All-Stars Matchmaker connector *does* have some telemetry implemented. This 
 - **Telemetry about matches:** What you see in recent matches plus some stuff not exposed yet on the user interface. So matches played, stages selected, characters used, scores etc...
 - **Telemetry about connection quality**: Various diagnostic in how your connection is being handled to ensure the server is working properly and diagnose problems
 - **Some error logs related to the connection or to the app**
+
+All the tooling and the service of All-Stars Matchmaker are provided ​“AS IS”. Other than as provided in this agreement, Developer makes no other warranties, express or implied, and hereby disclaims all implied warranties, including any warranty of merchantability and warranty of fitness for a particular purpose.
