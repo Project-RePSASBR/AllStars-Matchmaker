@@ -1,6 +1,6 @@
 **BETA DISCLAIMER**
 
-This service is still in beta phase. Bugs, errors and features not implemented are to be expected.
+This service is still in beta phase. Bugs, errors, features not implemented and frequent updates are to be expected.
 
 ---------------------------------------
 **FANMADE DISCLAIMER**
